@@ -23,7 +23,7 @@ Nach Julia Fischer (Biologe und Verhaltensforscher):
 -> Der Mensch ist ein Tier, jedoch ist es einzigartig auf dieser Welt. Das ist jedoch jedes Tier
 
 Nach Dieter Sturma (Philosoph):
-- der Mensch ist sich seiner selbst bewussthat
+- der Mensch ist sich seiner selbst bewusst
 - er kann seine Gefühle sprachlich ausdrücken
 - er ist werdend, aktiv oder vergehend
 - er kann philosophieren und sich fragen: "Was wäre wenn?"
@@ -72,7 +72,7 @@ Trotzdem: Verwandschaftsgrad zu Tieren besteht
 #### Sozialdarwinismus
 
 Der Sozialdarwinismus überträgt die Konzepte Darwins auf unsere Gesellschaft.
-Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw. Personengruppe steht hierbei über den anderen Gruppen. Randgruppen werden hierbei ausgegrenzt, systematisch ausgegrenzt oder sogar getötet.
+Dadurch entsteht eine menschenverachtende Perspektive, die stärkste Person, bzw. Personengruppe steht hierbei über den anderen Gruppen. Randgruppen werden hierbei systematisch ausgegrenzt oder sogar getötet.
 
 #### Theologische Sicht auf den Menschen
 
@@ -86,7 +86,7 @@ Nach den Neurowissenschaften sind alle Eigenschaften des Menschen messbar, Entsc
 
 #### Der freie Wille nach Kant
 
-Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet und von Tieren, welche rein triebgesteuert sind. Der Mensch löst sich von seiner absoluten Freiheit und unterwirft sich freiwillig selbst gesetzten Regeln. Das Befolgen dieser Regeln kann als sittliches Handeln bezeichnet werden, der Mensch entwickelt ein Pflichtbewusstsein den Regeln gegenüber.
+Nach Kant ist jeder Mensch der Vernunft mächtig, dies unterscheidet uns von Tieren, welche rein triebgesteuert sind. Der Mensch löst sich von seiner absoluten Freiheit und unterwirft sich freiwillig selbst gesetzten Regeln. Das Befolgen dieser Regeln, kann als sittliches Handeln bezeichnet werden, der Mensch entwickelt ein Pflichtbewusstsein den Regeln gegenüber.
 
 #### Soziologische Perspektive
 
@@ -130,13 +130,14 @@ Wichtige Tugenden sind:
 
 Wichtig ist hierbei, das gewisse Maß zu finden. Ich kann in Situationen zu tapfer (tollkühn) oder zu wenig tapfer (feige) sein, genau wie ich zu Hilfsbereit (Aufopferung) oder zu wenig Hilfsbereit sein kann.
 Darüber hinaus gibt es jedoch nach Aristoteles auch Handlungen die intrinsisch schlecht sind und zwar solche, die gegen die menschliche Natur sind, bspw. Mord.
+Aristoteles kann als Philosoph der Mitte beyeichnet werden. Suche nach dem Mittelwert (zwischen zwei Extremen).
 #### Deontologie
-Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten, ist somit nicht mehr situationsbedingt.
+Allgemein bezeichnet die Deontologie das Feld der Pflichtethik. In der Deontologie basiert die Vorstellung von Richtig und Falsch auf vorgegebenen Normen und Pflichten, ist somit nicht mehr situationsbedingt. Der Fokus wird auf das Handeln gelegt.
 Der wichtigste Vertreter dieser Ethik ist Immanuel Kant mit seinem Guten Willen.
-##### christliche und jüdische Pflichtethik
+##### Christliche und jüdische Pflichtethik
 Moralisch falsch ist eine Handlung, wenn sie gegen die 10. Gebote verstößt. Diese Gebote dienen als Richtweiser. Sünden sind im christlichen Glauben vergebbar, es sei denn die Sünde bestand aus einer der sieben Todsünden, welche nicht zu entschuldigen sind.
 ##### Guter Wille, Moraltest und Kategorischer Imperativ nach Kant
-Nach Kant ist eine Handlung gut, wenn sie mit einem guten Willen durchgeführt wird. Somit kann eine tugendhafte Handlung, wenn sie mit böser Absicht durchgeführt wird trotzdem schlecht sein. Zur Bestimmung des Willens einer Handlung lässt sich der Moraltest heranziehen.
+Nach Kant ist eine Handlung gut, wenn sie mit einem guten Willen durchgeführt wird. Somit kann eine tugendhafte Handlung, wenn sie mit böser Absicht durchgeführt wird, trotzdem schlecht sein. Zur Bestimmung des Willens einer Handlung, lässt sich der Moraltest heranziehen.
 Der Moraltest hat folgenden Algorithmus:
 1. Beschreibe das moralische Dilemma
 2. Formuliere eine zweckrationale Maxime
@@ -151,15 +152,15 @@ Die teleologische Ethik richtet sich nicht nach bestehenden Pflichten sondern re
 ##### Utilitarismus
 Im Utilitarismus wird immer das resultierende Leid gegen das resultierende Glück abgewogen. Passiert das bei einer Handlung und nicht einer Regel, spricht man vom Handlungsutilitarismus.
 ###### Handlungsutilitarismus (Bentham)
-Nach Bentham ist eine Handlung ist gut, wenn sie für alle Betroffenen zu mehr Freude als Leid führt (hedonistische Position).
+Nach Bentham ist eine Handlung gut, wenn sie für alle Betroffenen zu mehr Freude als Leid führt (hedonistische Position).
 Hierbei kommt man in jeder Situation zu einer Lösung.
-Problematisch hierbei ist z.B. dass Menschenleben gegeneinander abgewogen werden und Mord relativiert werden kann. Wenn z.B. eine kranke Person durch teure Maßnahmen am Leben erhalten wird, ihre Organe jedoch vielen Personen das Leben retten könne, wäre es utilitaristisch betrachtet richtig, die kranke Person zu töten, um die Organe zu spenden.
+Problematisch hierbei ist z.B., dass Menschenleben gegeneinander abgewogen werden und Mord relativiert werden kann. Wenn z.B. eine kranke Person durch teure Maßnahmen am Leben erhalten wird, ihre Organe jedoch vielen Personen das Leben retten könne, wäre es utilitaristisch betrachtet richtig, die kranke Person zu töten, um die Organe zu spenden.
 Ebenfalls problematisch ist die Subjektivität der Abwägung von Leid und Freude, weshalb von Person zu Person unterschiedliche Einschätzungen entstehen.
-Wie ist das Glück und Leid erfassbar. Auf einer Skala von 1-5? Als Summe aller Betroffenen Personen?
+Wie ist das Glück und Leid erfassbar? Auf einer Skala von 1-5? Als Summe aller Betroffenen Personen?
 ###### Regelutilitarismus
 Es werden nicht mehr bestimmte Situationen, sondern die Einführung, Abänderung, Beibehaltung oder Annulierung von Regeln utilitaristisch abgewägt. Man schaut sich also an, ob eine Regel zu mehr Freude als Leid führt.
 ###### Präferenzutilitarismus (Singer)
-Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wieviele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
+Anstatt lediglich Leid und Freude zu betrachten, wird im Präferenzutilitarismus auf die Bedürfnisse und Interessen (egal ob rational oder emotional) eingegangen. Abgewogen wird hierbei, wie viele Bedürfnisse und Interessen erfüllt und wie viele verletzt werden. Diese beziehen sich nicht nur auf die aktuelle Situation, sondern auch auf die Zukunft und die Vergangenheit.
 
 ### Ethik in Medizin und Wissenschaft
 #### Wann beginnt ein Leben und wann endet es?
